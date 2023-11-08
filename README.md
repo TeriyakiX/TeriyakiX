@@ -8,7 +8,7 @@
 </h1>
 
 <div align="center">
-  <img src="[[https://wallpaperaccess.com/full/3492868.gif](https://otkritkis.com/wp-content/uploads/2022/07/guygz.gif)](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzE5YndrMXk3NzBtaTdvemphZnYxZjNhZ2ttNWFiNHp0d3VtMmVzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4dYz4Vils2Ugvrxdsm/giphy.gif)" width="600" height="300"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzE5YndrMXk3NzBtaTdvemphZnYxZjNhZ2ttNWFiNHp0d3VtMmVzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4dYz4Vils2Ugvrxdsm/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
