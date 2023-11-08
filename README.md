@@ -8,7 +8,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://wallpaperaccess.com/full/3492868.gif" width="1920" height="1080"/>
+  <img src="[https://wallpaperaccess.com/full/3492868.gif](https://otkritkis.com/wp-content/uploads/2022/07/guygz.gif)" width="600" height="300"/>
 </div>
 
 ---
