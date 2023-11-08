@@ -8,7 +8,7 @@
 </h1>
 
 <div align="center">
-  <img src="[https://media3.giphy.com/media/fygfeYhDOPrhTOHZ7v/giphy.gif?cid=ecf05e47jzswfa81ofvl08q924jahf4r270l60vqd8zh14hd&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media2.giphy.com/media/lkceXNDw4Agryfrwz8/giphy.gif?cid=ecf05e47jzswfa81ofvl08q924jahf4r270l60vqd8zh14hd&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="400" height="600"/>
+  <img src="https://64.media.tumblr.com/43ff1ae84968ffd84606207e9995a78e/tumblr_py4mvbGe6h1tgo74ho1_1280.gif" width="400" height="600"/>
 </div>
 
 ---
